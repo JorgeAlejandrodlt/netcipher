@@ -678,7 +678,7 @@ a:hover {
 
 .about-mf .about-img {
   margin-bottom: 2rem;
-  transform: rotate(270deg);
+  transform: rotate(360deg) !important;
 }
 
 .about-mf .about-img img {
